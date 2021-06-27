@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development - MERN
 - 🌱 I’m currently learning ... React Native
 - 💞️ I’m looking to collaborate on ... Ant Design
-- 📫 How to reach me ... https://www.linkedin.com/in/pratap-deb-646357125/
+- 📫 How to reach me ... https://www.linkedin.com/in/pratapdeb
 
 <!---
 pratapdeb/pratapdeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
